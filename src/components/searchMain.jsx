@@ -37,7 +37,7 @@ function SearchMain() {
 
   useEffect(() => {
     getWeatherInfo();
-  }, []);
+  });
 
 
 
